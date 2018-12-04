@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: inline;
+}
+
+#sketch-holder {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#sketch-holder canvas {
+  width: 100% !important;
+  height: auto !important;
+  margin: 0;
+  padding: 0;
+}
